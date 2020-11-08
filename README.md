@@ -1,2 +1,2 @@
 # templateCheckIsbn
-Template for ISBN-10 project
+This repository contains the template for checkIsbn C++ application.
